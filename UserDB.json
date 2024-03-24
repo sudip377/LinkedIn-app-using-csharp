@@ -1,0 +1,47 @@
+[
+  {
+    "FirstName": "sudip",
+    "LastName": "nayek",
+    "DateOfBirth": "20/11/1996",
+    "Email": "sudip@gmail.com",
+    "PhoneNumber": "7001059501",
+    "Username": "sudip12",
+    "Nationality": "indian",
+    "Education": null,
+    "Skills": null,
+    "WorkExp": null,
+    "Social": null
+  },
+  {
+    "FirstName": "sudip",
+    "LastName": "roy",
+    "DateOfBirth": "20/12/2001",
+    "Email": "roy@gmail.com",
+    "PhoneNumber": "7557831765",
+    "Username": "roy12",
+    "Nationality": "indian",
+    "Education": null,
+    "Skills": null,
+    "WorkExp": null,
+    "Social": null
+  },
+  {
+    "FirstName": "rabi",
+    "LastName": "kar",
+    "DateOfBirth": "10/07/1988",
+    "Email": "kar@gmail.com",
+    "PhoneNumber": "7075896543",
+    "Username": "kar12",
+    "Nationality": "indian",
+    "Education": [
+      {
+        "Degree": "B.tech",
+        "University": "Techno indian",
+        "Grade": "A"
+      }
+    ],
+    "Skills": null,
+    "WorkExp": null,
+    "Social": null
+  }
+]
